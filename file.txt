@@ -1,0 +1,16 @@
+  // const handleSubmission = () => {
+  //   setLoading(true);
+  //   if (number == "9350631275") {
+  //     // If entered number matches, set cookie and navigate to home
+  //     Cookies.set("number", number);
+  //     const cook=Cookies.get('number')
+  //     console.log("cook", cook)
+  //     navigate("/home");
+  //     setLoading(false); // Set loading to false after processing
+  //   } else {
+  //     // If entered number doesn't match, show error toast
+  //     setNumber("");
+  //     toast.error("Numéro de téléphone invalide");
+  //     setLoading(false); // Set loading to false after processing
+  //   }
+  // };
